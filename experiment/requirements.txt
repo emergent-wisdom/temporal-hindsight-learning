@@ -1,0 +1,16 @@
+# Temporal Hindsight Learning - Dependencies
+# For Apple Silicon (M4 Mac)
+
+# Apple's MLX framework
+mlx>=0.21.0
+mlx-lm>=0.19.0
+
+# Google Gemini API (Teacher Oracle)
+google-generativeai>=0.8.0
+
+# Data handling
+datasets>=2.14.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0

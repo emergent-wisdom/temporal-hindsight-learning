@@ -1,0 +1,10 @@
+{
+  "model": "llama-3.3-70b-base",
+  "judge": "claude-opus-4-6",
+  "timestamp": "2026-03-19T12:11:46.373041",
+  "total": 75,
+  "leakage_free": 75,
+  "refusals": 0,
+  "avg_reasoning": 3.21,
+  "avg_accuracy": 4.72
+}

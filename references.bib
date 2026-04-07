@@ -1,0 +1,541 @@
+% References for Back to the Future paper (v3 - with full prior art)
+
+%==============================================================================
+% SELF-CORRECTION AND SAFETY
+%==============================================================================
+
+@article{huang2023selfcorrect,
+  author  = {Huang, Jie and others},
+  title   = {Large Language Models Cannot Self-Correct Reasoning Yet},
+  journal = {arXiv:2310.01798},
+  year    = {2023},
+  note    = {Validates finding that RFT fails on small models without external feedback}
+}
+
+@inproceedings{rottger2023xstest,
+  author    = {R{\"o}ttger, Paul and others},
+  title     = {XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models},
+  booktitle = {NAACL},
+  year      = {2024},
+  note      = {The standard citation for False Refusals or Refusal on benign prompts}
+}
+
+%==============================================================================
+% CAUSALITY AND CURRICULUM LEARNING
+%==============================================================================
+
+@book{pearl2009causality,
+  title     = {Causality},
+  author    = {Pearl, Judea},
+  year      = {2009},
+  publisher = {Cambridge University Press},
+  note      = {The foundational text for Causal DAGs}
+}
+
+@inproceedings{bengio2009curriculum,
+  author    = {Bengio, Yoshua and Louradour, J{\'e}r{\^o}me and Collobert, Ronan and Weston, Jason},
+  title     = {Curriculum learning},
+  booktitle = {ICML},
+  year      = {2009},
+  note      = {The original paper on training from easy to hard}
+}
+
+@inproceedings{kaushik2019learning,
+  title     = {Learning the Difference that Makes a Difference with Counterfactually-Augmented Data},
+  author    = {Kaushik, Divyansh and Hovy, Eduard and Lipton, Zachary C},
+  booktitle = {ICLR},
+  year      = {2020},
+  note      = {Validates the Counterfactual/Near Miss training approach}
+}
+
+%==============================================================================
+% OUTCOME-SUPERVISED FORECASTING (Concurrent Work)
+%==============================================================================
+
+@article{turtel2025selfteach,
+  author  = {Turtel, Benjamin and others},
+  title   = {{LLMs} Can Teach Themselves to Better Predict the Future},
+  journal = {arXiv:2502.05253},
+  year    = {2025}
+}
+
+@article{turtel2025rlvr,
+  author  = {Turtel, Benjamin and others},
+  title   = {Outcome-based Reinforcement Learning to Predict the Future},
+  journal = {TMLR},
+  year    = {2025},
+  note    = {arXiv:2505.17989}
+}
+
+@article{turtel2026futureaslabel,
+  author  = {Turtel, Benjamin and others},
+  title   = {Future-as-Label: Scalable Supervision from Real-World Outcomes},
+  journal = {arXiv:2601.06336},
+  year    = {2026}
+}
+
+@article{turtel2026sec,
+  author  = {Turtel, Benjamin and Wilczewski, Paul and Franklin, Danny and Skotheim, Kris},
+  title   = {Foresight Learning for {SEC} Risk Prediction},
+  journal = {arXiv:2601.19189},
+  year    = {2026}
+}
+
+@article{openforecaster2025,
+  author  = {Chandak, Nikhil and Goel, Shashwat and Prabhu, Ameya and Hardt, Moritz and Geiping, Jonas},
+  title   = {Scaling Open-Ended Reasoning to Predict the Future},
+  journal = {arXiv:2512.25070},
+  year    = {2025}
+}
+
+@article{aia2025,
+  author  = {{Bridgewater AIA Labs}},
+  title   = {{AIA} Forecaster: Technical Report},
+  journal = {arXiv:2511.07678},
+  year    = {2025}
+}
+
+@article{li2026simulated,
+  author  = {Li, Zehan and others},
+  title   = {Simulated Ignorance Fails: A Systematic Study of {LLM} Behaviors on Forecasting},
+  journal = {arXiv:2601.13717},
+  year    = {2026}
+}
+
+%==============================================================================
+% REASONING MODELS AND TEST-TIME COMPUTE
+%==============================================================================
+
+@article{deepseekr1,
+  author  = {{DeepSeek-AI}},
+  title   = {{DeepSeek-R1}: Incentivizing Reasoning Capability in {LLMs} via Reinforcement Learning},
+  journal = {Nature},
+  volume  = {645},
+  year    = {2025},
+  note    = {arXiv:2501.12948}
+}
+
+@inproceedings{snell2024scaling,
+  author    = {Snell, Charlie and Lee, Jaehoon and Xu, Kelvin and Kumar, Aviral},
+  title     = {Scaling {LLM} Test-Time Compute Optimally can be More Effective than Scaling Model Parameters},
+  booktitle = {ICLR},
+  year      = {2025}
+}
+
+%==============================================================================
+% CAUSAL REASONING AND KNOWLEDGE CUTOFFS
+%==============================================================================
+
+@article{kiciman2024causal,
+  author  = {K{\i}c{\i}man, Emre and others},
+  title   = {Causal Reasoning and Large Language Models: Opening a New Frontier for Causality},
+  journal = {TMLR},
+  year    = {2024}
+}
+
+@inproceedings{cheng2025dated,
+  author    = {Cheng, Jeffrey and Marone, Marc and Weller, Orion and Lawrie, Dawn and Khashabi, Daniel and {Van Durme}, Benjamin},
+  title     = {Dated Data: Tracing Knowledge Cutoffs in Large Language Models},
+  booktitle = {CoLM},
+  year      = {2024},
+  note      = {Outstanding Paper Award}
+}
+
+%==============================================================================
+% TEMPORAL GENERALIZATION AND FORECASTING
+%==============================================================================
+
+@misc{crowdstrike2024,
+  title        = {Falcon Content Update Remediation and Guidance Hub},
+  author       = {{CrowdStrike Intelligence Team}},
+  year         = {2024},
+  note         = {Accessed: 2024-07-20},
+  howpublished = {\url{https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/}}
+}
+
+@article{timer1_2025,
+  author  = {Liu, Zijia and Han, Peixuan and Yu, Haofei and Li, Haoru and You, Jiaxuan},
+  title   = {Time-R1: Towards Comprehensive Temporal Reasoning in LLMs},
+  journal = {arXiv:2505.13508},
+  year    = {2025}
+}
+
+@inproceedings{lazaridou2021mind,
+  author    = {Lazaridou, Angeliki and Kuncoro, Adhiguna and Gribovskaya, Elena and Agrawal, Devang and others},
+  title     = {Mind the Gap: Assessing Temporal Generalization in Neural Language Models},
+  booktitle = {NeurIPS},
+  year      = {2021}
+}
+
+@inproceedings{karger2025forecastbench,
+  author    = {Karger, Ezra and Bastani, Houtan and Yueh-Han, Chen and Jacobs, Zachary and Halawi, Danny and Zhang, Fred and Tetlock, Philip E.},
+  title     = {ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities},
+  booktitle = {ICLR},
+  year      = {2025}
+}
+
+@article{wallat2024temporal,
+  author  = {Wallat, Jonas and others},
+  title   = {Temporal Blind Spots in Large Language Models},
+  journal = {arXiv:2401.12078},
+  year    = {2024}
+}
+
+@article{autocast,
+  author  = {Zou, Andy and others},
+  title   = {Forecasting Future World Events with Neural Networks},
+  journal = {NeurIPS},
+  year    = {2022}
+}
+
+@inproceedings{halawi2024forecasting,
+  author    = {Halawi, Danny and others},
+  title     = {Approaching Human-Level Forecasting with Language Models},
+  booktitle = {NeurIPS},
+  year      = {2024},
+  note      = {arXiv:2402.18563}
+}
+
+@inproceedings{hsieh2023distilling,
+  author    = {Hsieh, Cheng-Yu and others},
+  title     = {Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes},
+  booktitle = {ACL},
+  year      = {2023}
+}
+
+@article{xiong2024llmuncertainty,
+  author  = {Xiong, Miao and others},
+  title   = {Can {LLMs} Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in {LLMs}},
+  journal = {ICLR},
+  year    = {2024}
+}
+
+@book{tetlock_superforecasting,
+  author    = {Tetlock, Philip E. and Gardner, Dan},
+  title     = {Superforecasting: The Art and Science of Prediction},
+  publisher = {Crown},
+  year      = {2015}
+}
+
+%==============================================================================
+% HIERARCHICAL CLASSIFICATION AND PATH CONSISTENCY
+%==============================================================================
+
+@inproceedings{giunchiglia2020coherent,
+  author    = {Giunchiglia, Eleonora and Lukasiewicz, Thomas},
+  title     = {Coherent Hierarchical Multi-Label Classification Networks},
+  booktitle = {NeurIPS},
+  year      = {2020}
+}
+
+@inproceedings{redmon2017yolo9000,
+  author    = {Redmon, Joseph and Farhadi, Ali},
+  title     = {YOLO9000: Better, Faster, Stronger},
+  booktitle = {CVPR},
+  pages     = {7263--7271},
+  year      = {2017}
+}
+
+@article{hcast2024,
+  author  = {{H-CAST Authors}},
+  title   = {H-CAST: Hierarchical Classification with Tree-Path KL Divergence},
+  journal = {arXiv},
+  year    = {2024}
+}
+
+@inproceedings{hdcnn,
+  author    = {Yan, Zhicheng and Zhang, Hao and Piramuthu, Robinson and Jagadeesh, Vignesh and DeCoste, Dennis and Di, Wei and Yu, Yizhou},
+  title     = {HD-CNN: Hierarchical Deep Convolutional Neural Networks for Large Scale Visual Recognition},
+  booktitle = {ICCV},
+  pages     = {2740--2748},
+  year      = {2015}
+}
+
+%==============================================================================
+% CALIBRATION
+%==============================================================================
+
+@article{brier1950verification,
+  author  = {Brier, Glenn W.},
+  title   = {Verification of Forecasts Expressed in Terms of Probability},
+  journal = {Monthly Weather Review},
+  volume  = {78},
+  number  = {1},
+  pages   = {1--3},
+  year    = {1950}
+}
+
+@inproceedings{guo2017calibration,
+  author    = {Guo, Chuan and Pleiss, Geoff and Sun, Yu and Weinberger, Kilian Q.},
+  title     = {On Calibration of Modern Neural Networks},
+  booktitle = {ICML},
+  pages     = {1321--1330},
+  year      = {2017}
+}
+
+@inproceedings{mukhoti2020calibrating,
+  author    = {Mukhoti, Jishnu and Kulharia, Viveka and Sanber, Amartya and Torr, Philip and others},
+  title     = {Calibrating Deep Neural Networks Using Focal Loss},
+  booktitle = {NeurIPS},
+  year      = {2020}
+}
+
+@inproceedings{tao2023dual,
+  author    = {Tao, Leitian and others},
+  title     = {Dual Focal Loss for Calibration},
+  booktitle = {ICML},
+  year      = {2023}
+}
+
+@article{kadavath2022language,
+  author  = {Kadavath, Saurav and Conerly, Tom and Askell, Amanda and others},
+  title   = {Language Models (Mostly) Know What They Know},
+  journal = {arXiv:2207.05221},
+  year    = {2022}
+}
+
+@inproceedings{calibration_tuning2024,
+  author    = {{Calibration-Tuning Authors}},
+  title     = {Calibration-Tuning: Teaching LLMs to Abstain Through Fine-Tuning},
+  booktitle = {ACL},
+  year      = {2024}
+}
+
+%==============================================================================
+% KNOWLEDGE DISTILLATION
+%==============================================================================
+
+@article{hinton2015distilling,
+  author  = {Hinton, Geoffrey and Vinyals, Oriol and Dean, Jeff},
+  title   = {Distilling the Knowledge in a Neural Network},
+  journal = {arXiv:1503.02531},
+  year    = {2015}
+}
+
+%==============================================================================
+% CONSTITUTIONAL AI AND ALIGNMENT
+%==============================================================================
+
+@article{bai2022constitutional,
+  author  = {Bai, Yuntao and Kadavath, Saurav and Kundu, Sandipan and Askell, Amanda and others},
+  title   = {Constitutional AI: Harmlessness from AI Feedback},
+  journal = {arXiv:2212.08073},
+  year    = {2022}
+}
+
+%==============================================================================
+% MULTI-TEACHER AND ENSEMBLE METHODS
+%==============================================================================
+
+@article{crowdlab2022,
+  author  = {Goh, Gabriel and others},
+  title   = {CROWDLAB: Supervised Learning to Infer Consensus Labels},
+  journal = {arXiv},
+  year    = {2022}
+}
+
+@article{amtml2021,
+  author  = {Liu, Yifan and others},
+  title   = {Adaptive Multi-Teacher Multi-Level Knowledge Distillation},
+  journal = {Neurocomputing},
+  year    = {2021}
+}
+
+@article{unikd2022,
+  author  = {Yang, Chenglin and others},
+  title   = {UniKD: Unified Knowledge Distillation},
+  journal = {arXiv},
+  year    = {2022}
+}
+
+%==============================================================================
+% CHAIN-OF-THOUGHT AND REASONING
+%==============================================================================
+
+@article{wei2022cot,
+  author  = {Wei, Jason and Wang, Xuezhi and Schuurmans, Dale and others},
+  title   = {Chain-of-Thought Prompting Elicits Reasoning in Large Language Models},
+  journal = {NeurIPS},
+  year    = {2022}
+}
+
+%==============================================================================
+% SELF-IMPROVEMENT AND EXPERT ITERATION
+%==============================================================================
+
+@inproceedings{zelikman2022star,
+  author    = {Zelikman, Eric and Wu, Yuhuai and Mu, Jesse and Goodman, Noah D.},
+  title     = {{STaR}: Bootstrapping Reasoning With Reasoning},
+  booktitle = {NeurIPS},
+  year      = {2022}
+}
+
+@article{yuan2023rft,
+  author  = {Yuan, Zheng and Yuan, Hongyi and Li, Chengpeng and Dong, Guanting and others},
+  title   = {Scaling Relationship on Learning Mathematical Reasoning with Large Language Models},
+  journal = {arXiv:2308.01825},
+  year    = {2023},
+  note    = {Introduces Rejection Sampling Fine-Tuning (RFT)}
+}
+
+%==============================================================================
+% RL METHODS
+%==============================================================================
+
+@article{rafailov2023dpo,
+  author  = {Rafailov, Rafael and Sharma, Archit and Mitchell, Eric and others},
+  title   = {Direct Preference Optimization: Your Language Model is Secretly a Reward Model},
+  journal = {arXiv:2305.18290},
+  year    = {2023}
+}
+
+@article{schulman2017ppo,
+  author  = {Schulman, John and Wolski, Filip and Dhariwal, Prafulla and Radford, Alec and Klimov, Oleg},
+  title   = {Proximal Policy Optimization Algorithms},
+  journal = {arXiv:1707.06347},
+  year    = {2017}
+}
+
+%==============================================================================
+% RLAIF AND AI FEEDBACK
+%==============================================================================
+
+@article{lee2023rlaif,
+  author  = {Lee, Harrison and Phatale, Samrat and Mansoor, Hassan and others},
+  title   = {RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback},
+  journal = {arXiv:2309.00267},
+  year    = {2023}
+}
+
+@article{zheng2023judging,
+  author  = {Zheng, Lianmin and Chiang, Wei-Lin and Sheng, Ying and others},
+  title   = {Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena},
+  journal = {NeurIPS},
+  year    = {2023}
+}
+
+%==============================================================================
+% EMBEDDINGS AND SEMANTIC SIMILARITY
+%==============================================================================
+
+@inproceedings{reimers2019sentencebert,
+  author    = {Reimers, Nils and Gurevych, Iryna},
+  title     = {Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks},
+  booktitle = {EMNLP},
+  year      = {2019}
+}
+
+%==============================================================================
+% CONTINUAL LEARNING
+%==============================================================================
+
+@article{kirkpatrick2017overcoming,
+  author  = {Kirkpatrick, James and Pascanu, Razvan and Rabinowitz, Neil and others},
+  title   = {Overcoming Catastrophic Forgetting in Neural Networks},
+  journal = {PNAS},
+  year    = {2017}
+}
+
+%==============================================================================
+% EFFICIENT FINE-TUNING
+%==============================================================================
+
+@article{hu2022lora,
+  author  = {Hu, Edward and Shen, Yelong and Wallis, Phillip and others},
+  title   = {LoRA: Low-Rank Adaptation of Large Language Models},
+  journal = {ICLR},
+  year    = {2022}
+}
+
+@article{dettmers2023qlora,
+  author  = {Dettmers, Tim and Pagnoni, Artidoro and Holtzman, Ari and Zettlemoyer, Luke},
+  title   = {QLoRA: Efficient Finetuning of Quantized LLMs},
+  journal = {NeurIPS},
+  year    = {2023}
+}
+
+%==============================================================================
+% MODEL REFERENCES
+%==============================================================================
+
+@article{dubey2024llama3,
+  author  = {Dubey, Abhimanyu and others},
+  title   = {The Llama 3 Herd of Models},
+  journal = {arXiv:2407.21783},
+  year    = {2024}
+}
+
+@article{qwen2.5,
+  author  = {{Qwen Team}},
+  title   = {Qwen2.5 Technical Report},
+  journal = {arXiv:2412.15115},
+  year    = {2024}
+}
+
+@article{gemini2024,
+  author  = {{Google DeepMind}},
+  title   = {Gemini: A Family of Highly Capable Multimodal Models},
+  journal = {arXiv:2312.11805},
+  year    = {2023}
+}
+
+%==============================================================================
+% HINDSIGHT BIAS (COGNITIVE SCIENCE)
+%==============================================================================
+
+@article{fischhoff1975hindsight,
+  author  = {Fischhoff, Baruch},
+  title   = {Hindsight $\neq$ Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty},
+  journal = {Journal of Experimental Psychology: Human Perception and Performance},
+  volume  = {1},
+  number  = {3},
+  pages   = {288--299},
+  year    = {1975}
+}
+
+%==============================================================================
+% WEAK-TO-STRONG GENERALIZATION
+%==============================================================================
+
+@article{burns2023weaktostrong,
+  author  = {Burns, Collin and Izmailov, Pavel and Kirchner, Jan Hendrik and Baker, Bowen and Gao, Leo and Aschenbrenner, Leopold and Chen, Yining and Ecoffet, Adrien and Joglekar, Manas and Leike, Jan and Sutskever, Ilya and Wu, Jeff},
+  title   = {Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision},
+  journal = {arXiv:2312.09390},
+  year    = {2023}
+}
+
+%==============================================================================
+% HINDSIGHT LEARNING IN RL
+%==============================================================================
+
+@inproceedings{andrychowicz2017hindsight,
+  author    = {Andrychowicz, Marcin and Wolski, Filip and Ray, Alex and others},
+  title     = {Hindsight Experience Replay},
+  booktitle = {NeurIPS},
+  year      = {2017}
+}
+
+%==============================================================================
+% SYNTHETIC DATA
+%==============================================================================
+
+@article{gunasekar2023textbooks,
+  author  = {Gunasekar, Suriya and others},
+  title   = {Textbooks Are All You Need},
+  journal = {arXiv:2306.11644},
+  year    = {2023}
+}
+
+@article{li2023synthetic,
+  author  = {Li, Yuanzhi and Bubeck, S{\'e}bastien and Eldan, Ronen and Del Giorno, Allie and Gunasekar, Suriya and Lee, Yin Tat},
+  title   = {Textbooks Are All You Need {II}: phi-1.5 Technical Report},
+  journal = {arXiv:2309.05463},
+  year    = {2023}
+}
+
+@article{lightman2023lets,
+  author  = {Lightman, Hunter and Kosaraju, Vineet and Burda, Yura and Edwards, Harri and Baker, Bowen and Lee, Teddy and Leike, Jan and Schulman, John and Sutskever, Ilya and Cobbe, Karl},
+  title   = {Let's Verify Step by Step},
+  journal = {arXiv:2305.20050},
+  year    = {2023}
+}

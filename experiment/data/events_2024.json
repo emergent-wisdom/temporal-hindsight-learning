@@ -1,0 +1,850 @@
+[
+  {
+    "date": "2024-01-05",
+    "headline": "Alaska Airlines door plug blows out mid-flight",
+    "category": "business",
+    "outcome": "Boeing 737 MAX 9 fleet grounded, stock plummeted, massive safety audit initiated",
+    "context_notes": "Fuselage panel blew off flight 1282. Revealed quality control issues at Spirit AeroSystems and Boeing. CEO Dave Calhoun eventually announced resignation.",
+    "id": 1
+  },
+  {
+    "id": 2,
+    "date": "2024-01-09",
+    "headline": "Rabbit r1 AI device announced at CES",
+    "category": "technology",
+    "outcome": "Generated massive hype, sold out batches, but faced poor reviews upon release",
+    "context_notes": "CES 2024 dominated by AI hardware. Humane AI Pin also launching. Rabbit promised 'Large Action Model' to control apps. Symbol of the 'AI gadget' bubble."
+  },
+  {
+    "id": 3,
+    "date": "2024-01-10",
+    "headline": "Bitcoin ETFs approved by SEC",
+    "category": "economics",
+    "outcome": "11 spot Bitcoin ETFs approved, massive institutional inflows followed",
+    "context_notes": "Grayscale won court case against SEC in Aug 2023. BlackRock filed ETF application June 2023. SEC had rejected previous applications for years. Crypto market recovering from 2022 crash."
+  },
+  {
+    "id": 4,
+    "date": "2024-01-15",
+    "headline": "Trump wins Iowa caucuses decisively",
+    "category": "politics",
+    "outcome": "51% of vote, DeSantis distant second at 21%, Haley third",
+    "context_notes": "Trump leading polls since announcing Nov 2022. DeSantis hype from 2022 midterms fading. Four indictments against Trump in 2023. GOP primary debates without Trump."
+  },
+  {
+    "date": "2024-01-19",
+    "headline": "Japan's SLIM lander achieves precision moon landing",
+    "category": "science",
+    "outcome": "Japan becomes 5th country to land on moon, landed upside down but transmitted data",
+    "context_notes": "JAXA mission focused on 'pinpoint' landing technology. Landed within 55m of target. Solar panels initially faced wrong way but revived later.",
+    "id": 5
+  },
+  {
+    "date": "2024-01-28",
+    "headline": "Neuralink implants first brain chip in human patient",
+    "category": "technology",
+    "outcome": "Noland Arbaugh successfully controls computer cursor with thoughts, company valued at $5B",
+    "context_notes": "Musk announced Neuralink in 2017. FDA approved human trials May 2023. Competitor Synchron already had human implants. Arbaugh is quadriplegic from diving accident.",
+    "id": 6
+  },
+  {
+    "id": 7,
+    "date": "2024-02-02",
+    "headline": "Apple Vision Pro launches in US",
+    "category": "technology",
+    "outcome": "Technical marvel with limited app ecosystem, high price ($3500) limited adoption",
+    "context_notes": "Apple's first new major product category since Apple Watch. Focus on 'Spatial Computing'. VR/AR market struggling (Meta Quest). High manufacturing complexity."
+  },
+  {
+    "id": 8,
+    "date": "2024-02-11",
+    "headline": "Taylor Swift attends Super Bowl as Travis Kelce girlfriend",
+    "category": "entertainment",
+    "outcome": "Chiefs won Super Bowl, Swift-Kelce relationship dominated media coverage",
+    "context_notes": "Swift Eras Tour broke records in 2023. Swift started attending Chiefs games Oct 2023. Kelce one of top tight ends in NFL. Chiefs defending Super Bowl champions."
+  },
+  {
+    "id": 9,
+    "date": "2024-02-21",
+    "headline": "Nvidia reports Q4 2023 earnings, stock surges",
+    "category": "technology",
+    "outcome": "Revenue up 265% YoY, data center revenue tripled, AI chip demand overwhelming",
+    "context_notes": "ChatGPT launched Nov 2022 triggered AI boom. Nvidia H100 chips in massive demand. Cloud providers racing to build AI infrastructure. Stock already up 200%+ in 2023."
+  },
+  {
+    "id": 10,
+    "date": "2024-02-15",
+    "headline": "Google announces Gemini 1.5 Pro with 1M token context",
+    "category": "technology",
+    "outcome": "Redefined 'long context' capabilities, enabling analysis of full codebases and movies",
+    "context_notes": "GPT-4 Turbo limited to 128k context. RAG was dominant approach for long data. Gemini 1.5 utilized Ring Attention or similar architectural changes for massive context."
+  },
+  {
+    "date": "2024-02-15",
+    "headline": "OpenAI announces Sora video generation model",
+    "category": "technology",
+    "outcome": "Shocked industry with 60-second photorealistic clips, sparked Hollywood labor concerns",
+    "context_notes": "Text-to-video model with complex physics simulation. Not released publicly, only to red teamers. Overshadowed Google's Gemini 1.5 announcement same day.",
+    "id": 11
+  },
+  {
+    "id": 12,
+    "date": "2024-02-21",
+    "headline": "Google releases Gemma open models",
+    "category": "technology",
+    "outcome": "Google officially enters open-weights arena to compete with Llama",
+    "context_notes": "Built on Gemini research. 2B and 7B sizes. Google previously criticized for keeping models closed. Shift in strategy to commoditize the lower end of the market."
+  },
+  {
+    "date": "2024-02-22",
+    "headline": "Intuitive Machines 'Odysseus' lands on Moon",
+    "category": "science",
+    "outcome": "First private spacecraft to land on moon, first US landing since Apollo 17",
+    "context_notes": "Mission IM-1. Landed near south pole. Tipped over upon landing but operational. Part of NASA's CLPS program to prepare for Artemis.",
+    "id": 13
+  },
+  {
+    "id": 14,
+    "date": "2024-02-24",
+    "headline": "Russia-Ukraine war reaches two-year mark",
+    "category": "geopolitics",
+    "outcome": "Stalemate continues, Ukraine aid stalled in US Congress, counteroffensive failed",
+    "context_notes": "Ukraine counteroffensive summer 2023 made limited gains. Russian defense lines held. US aid package stuck in House. European allies increasing support. Zelensky visited US Dec 2023."
+  },
+  {
+    "date": "2024-02-29",
+    "headline": "Elon Musk sues OpenAI and Sam Altman",
+    "category": "legal",
+    "outcome": "Alleged breach of founding contract to benefit humanity, later withdrew and refiled",
+    "context_notes": "Musk claimed OpenAI became closed-source subsidiary of Microsoft. OpenAI released emails showing Musk wanted total control and merger with Tesla.",
+    "id": 15
+  },
+  {
+    "date": "2024-03-01",
+    "headline": "Dune: Part Two releases to critical acclaim",
+    "category": "entertainment",
+    "outcome": "Grossed over $700M, revitalized struggling global box office for 2024",
+    "context_notes": "Delayed from 2023 due to actor strikes. Denis Villeneuve directed. Solidified Timoth\u00e9e Chalamet as bankable star. IMAX screens sold out for weeks.",
+    "id": 16
+  },
+  {
+    "id": 17,
+    "date": "2024-03-04",
+    "headline": "Anthropic releases Claude 3 family",
+    "category": "technology",
+    "outcome": "Claude 3 Opus surpasses GPT-4 on LMSYS leaderboard, breaking OpenAI dominance",
+    "context_notes": "OpenAI had held SOTA since Mar 2023. Claude 3 introduced Opus, Sonnet, Haiku tiers. 'Refusal' rates lowered compared to Claude 2. Strong coding performance."
+  },
+  {
+    "id": 18,
+    "date": "2024-03-05",
+    "headline": "Super Tuesday: Trump sweeps Republican primaries",
+    "category": "politics",
+    "outcome": "Trump won 14 of 15 states, Haley dropped out next day",
+    "context_notes": "Haley only viable alternative after DeSantis dropped out Jan 2024. GOP establishment failed to coalesce behind single candidate. Trump's legal troubles boosted primary support."
+  },
+  {
+    "id": 19,
+    "date": "2024-03-13",
+    "headline": "EU Parliament approves AI Act",
+    "category": "policy",
+    "outcome": "First comprehensive AI regulation in the world, setting risk-based tiers",
+    "context_notes": "Bans 'unacceptable risk' AI (social scoring). Strict rules for 'high risk'. General Purpose AI (GPAI) rules added late due to ChatGPT. Sets global regulatory tone."
+  },
+  {
+    "date": "2024-03-14",
+    "headline": "West Africa subsea cable failure causes internet blackout",
+    "category": "technology",
+    "outcome": "Multiple cables cut, C\u00f4te d'Ivoire dropped to 4% connectivity, millions offline for weeks",
+    "context_notes": "Four submarine cables damaged near Abidjan. Liberia fell to 17%, Benin to 14%, Ghana to 25%. Exposed dependency on limited cable routes. Starlink interest surged.",
+    "id": 20
+  },
+  {
+    "id": 21,
+    "date": "2024-03-20",
+    "headline": "Reddit IPO prices at $34 per share",
+    "category": "business",
+    "outcome": "First major tech IPO since 2021, valued at $6.4B, stock popped 48% on first day",
+    "context_notes": "Reddit filed for IPO in Dec 2021, delayed due to market conditions. IPO market frozen since 2022. API pricing controversy in 2023. Company still unprofitable."
+  },
+  {
+    "id": 22,
+    "date": "2024-03-18",
+    "headline": "Nvidia announces Blackwell B200 GPU",
+    "category": "technology",
+    "outcome": "Claims 30x inference speedup, consolidates Nvidia's infrastructure monopoly",
+    "context_notes": "H100 was the most desired hardware of 2023. Blackwell combines two reticle-sized dies. Liquid cooling required for GB200 racks. Stock continues meteoric rise."
+  },
+  {
+    "id": 23,
+    "date": "2024-03-26",
+    "headline": "Francis Scott Key Bridge collapses in Baltimore",
+    "category": "infrastructure",
+    "outcome": "Container ship struck bridge support, 6 workers killed, major port closed",
+    "context_notes": "Bridge built in 1977, carried I-695. Port of Baltimore 9th largest in US. Supply chain vulnerabilities exposed during COVID. Aging US infrastructure a known issue."
+  },
+  {
+    "date": "2024-11-14",
+    "headline": "Sabre-toothed cat mummy discovered in Siberian permafrost",
+    "category": "science",
+    "outcome": "Best-preserved Homotherium specimen ever found, 35,000 years old juvenile with intact fur",
+    "context_notes": "Found in Yakutia, Russia. Published in Scientific Reports. Permafrost revealing more specimens as climate warms. Previous finds included mammoths and cave lions.",
+    "id": 24
+  },
+  {
+    "id": 25,
+    "date": "2024-04-08",
+    "headline": "Total solar eclipse crosses North America",
+    "category": "science",
+    "outcome": "Path from Mexico to Canada, millions traveled to totality zones, economic boost",
+    "context_notes": "Last total eclipse in US was Aug 2017. Eclipse path predicted years in advance. Hotels in path booked years ahead. Scientific observations planned."
+  },
+  {
+    "id": 26,
+    "date": "2024-04-13",
+    "headline": "Iran launches drone and missile attack on Israel",
+    "category": "geopolitics",
+    "outcome": "300+ projectiles launched, 99% intercepted, limited damage, regional escalation fears",
+    "context_notes": "Israel struck Iranian consulate in Damascus Apr 1. Iran-Israel shadow war ongoing for years. Hezbollah and Hamas backed by Iran. US forces in region."
+  },
+  {
+    "id": 27,
+    "date": "2024-04-18",
+    "headline": "Meta releases Llama 3 (8B and 70B)",
+    "category": "technology",
+    "outcome": "Llama 3 70B becomes the de facto standard for open-weights, beating proprietary models",
+    "context_notes": "Llama 2 was the previous standard. Llama 3 trained on 15T tokens (massive increase). 400B+ model teased for later release. Zuckerberg commits to open source AGI."
+  },
+  {
+    "id": 28,
+    "date": "2024-04-19",
+    "headline": "Bitcoin halving occurs",
+    "category": "economics",
+    "outcome": "Block reward reduced from 6.25 to 3.125 BTC, mining profitability squeezed",
+    "context_notes": "Previous halvings in 2012, 2016, 2020 preceded bull runs. Halving date predictable from blockchain. ETF approval in Jan increased institutional interest. Miners preparing for lower rewards."
+  },
+  {
+    "id": 29,
+    "date": "2024-04-17",
+    "headline": "Columbia University pro-Palestinian encampment begins",
+    "category": "politics",
+    "outcome": "Spread to 100+ campuses, arrests, congressional hearings, commencement disruptions",
+    "context_notes": "Gaza war started Oct 7 2023. Campus protests began fall 2023. University presidents testified in Congress Dec 2023. Antisemitism concerns rising."
+  },
+  {
+    "date": "2024-04-24",
+    "headline": "Biden signs bill forcing TikTok divestiture or ban",
+    "category": "policy",
+    "outcome": "ByteDance given 9 months to sell US operations or face app store ban",
+    "context_notes": "Cites national security concerns regarding Chinese data ownership. TikTok sued to block law on First Amendment grounds. Deadline set for Jan 19, 2025.",
+    "id": 30
+  },
+  {
+    "date": "2024-05-02",
+    "headline": "Orangutan observed treating wound with medicinal plant",
+    "category": "science",
+    "outcome": "First documented case of great ape using biologically active plant for wound treatment",
+    "context_notes": "Sumatran orangutan named Rakus applied Fibraurea tinctoria to facial wound. Published in Scientific Reports. Plant has antibacterial properties. Suggests evolutionary roots of medicine.",
+    "id": 31
+  },
+  {
+    "id": 32,
+    "date": "2024-05-13",
+    "headline": "OpenAI announces GPT-4o",
+    "category": "technology",
+    "outcome": "Multimodal model, free tier access, faster responses, voice and vision capabilities",
+    "context_notes": "GPT-4 released Mar 2023. ChatGPT reached 100M users in 2 months. Google Gemini launched Dec 2023. AI race intensifying. Sam Altman fired and rehired Nov 2023."
+  },
+  {
+    "id": 33,
+    "date": "2024-05-20",
+    "headline": "Iranian President Raisi killed in helicopter crash",
+    "category": "geopolitics",
+    "outcome": "Hardliner killed with foreign minister, succession crisis, Khamenei still in control",
+    "context_notes": "Raisi elected 2021 in low-turnout election. Seen as potential Khamenei successor. Iran facing economic sanctions. Regional tensions high after Oct 7."
+  },
+  {
+    "id": 34,
+    "date": "2024-05-20",
+    "headline": "Microsoft announces Copilot+ PCs and 'Recall' feature",
+    "category": "technology",
+    "outcome": "Recall feature delayed indefinitely due to massive privacy/security backlash",
+    "context_notes": "Copilot+ PCs use NPUs (mostly Qualcomm at launch). Recall takes constant screenshots to create searchable memory. Security researchers found data stored in plain text."
+  },
+  {
+    "date": "2024-05-20",
+    "headline": "Scarlett Johansson accuses OpenAI of copying voice",
+    "category": "culture",
+    "outcome": "OpenAI pulled 'Sky' voice, ignited debate over AI likeness rights",
+    "context_notes": "Actress claimed Sam Altman asked to license her voice for GPT-4o. She refused. 'Sky' sounded eerily similar to her character in the movie 'Her'.",
+    "id": 35
+  },
+  {
+    "id": 36,
+    "date": "2024-05-30",
+    "headline": "Trump convicted on 34 felony counts in hush money trial",
+    "category": "legal",
+    "outcome": "First former president convicted, sentencing delayed, campaign continued",
+    "context_notes": "Indictment in Mar 2023. Trial started Apr 2024. Charges related to 2016 Stormy Daniels payments. Three other indictments pending. Polls showed conviction wouldn't change support."
+  },
+  {
+    "date": "2024-05-31",
+    "headline": "Ticketmaster breach exposes 560 million customer records",
+    "category": "technology",
+    "outcome": "ShinyHunters hackers accessed personal data, part of Snowflake cloud breach wave",
+    "context_notes": "Live Nation owns Ticketmaster. Snowflake cloud platform compromised. AT&T also breached in same attack wave. Data sold on dark web for $500k.",
+    "id": 37
+  },
+  {
+    "date": "2024-06-02",
+    "headline": "Claudia Sheinbaum elected first female President of Mexico",
+    "category": "politics",
+    "outcome": "Landslide victory for ruling Morena party, climate scientist turned politician",
+    "context_notes": "Prot\u00e9g\u00e9 of outgoing president AMLO. 60% of vote. Campaign marred by violence against local candidates. Focus on social programs and nearshoring.",
+    "id": 38
+  },
+  {
+    "date": "2024-06-04",
+    "headline": "Modi claims victory in India election with reduced majority",
+    "category": "politics",
+    "outcome": "BJP lost parliamentary majority, forced to rely on coalition partners",
+    "context_notes": "World's largest democratic exercise (640M voters). Unexpectedly strong showing for opposition INDIA alliance. Market dipped 6% then recovered.",
+    "id": 39
+  },
+  {
+    "id": 40,
+    "date": "2024-06-09",
+    "headline": "European Parliament elections show far-right gains",
+    "category": "politics",
+    "outcome": "Right-wing parties gained seats, Macron called snap election, EU policy shift",
+    "context_notes": "Immigration top issue in Europe. Le Pen's party leading in France. AfD rising in Germany. Meloni already governing Italy. Green parties losing ground."
+  },
+  {
+    "id": 41,
+    "date": "2024-06-10",
+    "headline": "Apple announces Apple Intelligence at WWDC",
+    "category": "technology",
+    "outcome": "AI features for iPhone, Siri upgrade, OpenAI partnership, stock hit new highs",
+    "context_notes": "Apple perceived as behind in AI race. Siri outdated compared to ChatGPT. iPhone sales declining in China. Services revenue growing. WWDC 2023 focused on Vision Pro."
+  },
+  {
+    "date": "2024-06-18",
+    "headline": "Nvidia briefly becomes world's most valuable company",
+    "category": "economics",
+    "outcome": "Market cap hit $3.34T, surpassing Microsoft and Apple",
+    "context_notes": "Driven by insatiable demand for H100/Blackwell chips. Stock split 10-for-1 earlier in June. Highlighted the concentration of wealth in AI infrastructure.",
+    "id": 42
+  },
+  {
+    "id": 43,
+    "date": "2024-06-20",
+    "headline": "Anthropic releases Claude 3.5 Sonnet",
+    "category": "technology",
+    "outcome": "Mid-sized model beats industry flagship (GPT-4o), establishes new price/performance tier",
+    "context_notes": "Unexpected release. 'Artifacts' UI feature launched simultaneously, changing how users interact with code/content generation. Coding capabilities highly praised."
+  },
+  {
+    "id": 44,
+    "date": "2024-06-27",
+    "headline": "Biden struggles in first debate against Trump",
+    "category": "politics",
+    "outcome": "Biden appeared confused, lost train of thought, Democratic panic ensued",
+    "context_notes": "Biden age concerns growing since 2023. Trump avoided GOP debates. Polls showed close race. Biden campaign emphasized experience. Some Democrats wanted open primary."
+  },
+  {
+    "id": 45,
+    "date": "2024-07-01",
+    "headline": "Supreme Court grants Trump partial immunity",
+    "category": "legal",
+    "outcome": "Presidents have immunity for official acts, cases delayed past election",
+    "context_notes": "Trump facing four criminal cases. Jan 6 case in DC. Florida documents case. Special counsel Jack Smith prosecuting. Court had 6-3 conservative majority."
+  },
+  {
+    "date": "2024-07-04",
+    "headline": "Labour Party wins landslide in UK General Election",
+    "category": "politics",
+    "outcome": "Keir Starmer becomes PM, ending 14 years of Conservative rule",
+    "context_notes": "Conservatives suffered worst defeat in history. Rishi Sunak resigned. Reform UK split right-wing vote. Voter turnout relatively low.",
+    "id": 46
+  },
+  {
+    "id": 47,
+    "date": "2024-07-07",
+    "headline": "French elections: Left-wing alliance wins surprise victory",
+    "category": "politics",
+    "outcome": "New Popular Front won most seats, no majority, hung parliament",
+    "context_notes": "Macron called snap election after EU vote. Le Pen's RN led first round. Left parties formed tactical alliance. Strategic voting in second round."
+  },
+  {
+    "date": "2024-07-07",
+    "headline": "Paramount agrees to merge with Skydance",
+    "category": "business",
+    "outcome": "Ends Redstone family control of CBS/Paramount, David Ellison to become CEO",
+    "context_notes": "Months of dramatic negotiations. Shari Redstone finally agreed to sell National Amusements. Values Skydance at $4.75B. Marks shift in legacy media ownership.",
+    "id": 48
+  },
+  {
+    "id": 49,
+    "date": "2024-07-13",
+    "headline": "Trump survives assassination attempt at Pennsylvania rally",
+    "category": "politics",
+    "outcome": "Bullet grazed ear, one attendee killed, shooter killed by Secret Service",
+    "context_notes": "Political violence concerns high. Trump rallies drew large crowds. Secret Service responsible for protection. Polarization at historic levels."
+  },
+  {
+    "id": 50,
+    "date": "2024-07-19",
+    "headline": "CrowdStrike update causes global IT outage",
+    "category": "technology",
+    "outcome": "8.5 million Windows devices crashed, grounding flights and halting hospitals",
+    "context_notes": "Caused by faulty channel file update in Falcon sensor. Exposed fragility of centralized security software. Microsoft estimated impact. Cost billions in damages."
+  },
+  {
+    "id": 51,
+    "date": "2024-07-21",
+    "headline": "Biden withdraws from 2024 race, endorses Harris",
+    "category": "politics",
+    "outcome": "First incumbent to withdraw since LBJ, Harris quickly consolidated support",
+    "context_notes": "Debate performance triggered calls to withdraw. Democratic donors paused funding. Obama remained silent. Harris was VP, obvious successor. Convention in August."
+  },
+  {
+    "id": 52,
+    "date": "2024-07-23",
+    "headline": "Meta releases Llama 3.1 including 405B model",
+    "category": "technology",
+    "outcome": "First open-weights model to rival top-tier closed models (GPT-4o) in capability",
+    "context_notes": "405B requires massive hardware to run. Distilled smaller models (8B, 70B) became significantly better. Synthetic data generation for other models exploded."
+  },
+  {
+    "date": "2024-07-26",
+    "headline": "Paris Olympics opening ceremony held on Seine",
+    "category": "sports",
+    "outcome": "First outdoor opening ceremony, Celine Dion returns, massive global viewership",
+    "context_notes": "Rain soaked event. Security high. Controversy over 'Last Supper' tableau. US topped medal table, tied with China for golds.",
+    "id": 53
+  },
+  {
+    "id": 54,
+    "date": "2024-08-05",
+    "headline": "Google found guilty of illegal search monopoly",
+    "category": "legal",
+    "outcome": "DOJ antitrust win, remedies pending, could reshape tech industry",
+    "context_notes": "DOJ antitrust case filed in 2020. Trial concluded late 2023. Google controls 90%+ of search. Default agreements with Apple worth $15B/year."
+  },
+  {
+    "date": "2024-08-12",
+    "headline": "National Public Data breach exposes 2.9 billion records",
+    "category": "technology",
+    "outcome": "SSNs, addresses, phone numbers leaked; one of largest breaches ever; company filed bankruptcy",
+    "context_notes": "Background check company. Data scraped from public sources but aggregated. Breach occurred Dec 2023, disclosed Aug 2024. Multiple class action lawsuits filed.",
+    "id": 55
+  },
+  {
+    "id": 56,
+    "date": "2024-08-13",
+    "headline": "Starbucks replaces CEO with Chipotle's Brian Niccol",
+    "category": "business",
+    "outcome": "Stock surges 25%, turnaround strategy anticipated",
+    "context_notes": "Starbucks same-store sales declining. China market struggling. Activist Elliott Management took stake. Chipotle stock up 300% under Niccol."
+  },
+  {
+    "id": 57,
+    "date": "2024-08-14",
+    "headline": "Mpox outbreak declared global health emergency again",
+    "category": "health",
+    "outcome": "New clade spreads from DRC, vaccine distribution challenges",
+    "context_notes": "Mpox declared emergency in 2022, then downgraded. New clade 1b emerging in DRC. Higher mortality rate. Limited vaccine supply in Africa."
+  },
+  {
+    "id": 58,
+    "date": "2024-08-22",
+    "headline": "Harris accepts Democratic nomination at Chicago convention",
+    "category": "politics",
+    "outcome": "Historic nomination, Walz as VP pick, party unity, polls tightened",
+    "context_notes": "First Black and South Asian woman nominated. Convention in Chicago. Walz chosen over Shapiro. Enthusiasm gap closed with Republicans."
+  },
+  {
+    "date": "2024-08-20",
+    "headline": "Black Myth: Wukong releases global sales records",
+    "category": "entertainment",
+    "outcome": "Sold 10M copies in 3 days, proved viability of Chinese AAA gaming",
+    "context_notes": "Developed by Game Science. Unreal Engine 5. 2.4M concurrent players on Steam (record for single-player). Boosted PS5 sales in China.",
+    "id": 59
+  },
+  {
+    "date": "2024-08-24",
+    "headline": "Telegram CEO Pavel Durov arrested in France",
+    "category": "technology",
+    "outcome": "Charged with complicity in managing illegal platform content, released on bail",
+    "context_notes": "Accused of refusing to cooperate with law enforcement regarding drug trafficking/CSAM on Telegram. Sparked free speech debate. Telegram changed TOS shortly after.",
+    "id": 60
+  },
+  {
+    "date": "2024-08-30",
+    "headline": "X (Twitter) banned in Brazil over disinformation dispute",
+    "category": "technology",
+    "outcome": "Supreme Court ordered shutdown, Bluesky gained 2M+ Brazilian users in days",
+    "context_notes": "Justice Alexandre de Moraes demanded account removals. Musk called him authoritarian. X refused to appoint legal representative. Ban lasted until October.",
+    "id": 61
+  },
+  {
+    "id": 62,
+    "date": "2024-09-10",
+    "headline": "Harris-Trump debate on ABC",
+    "category": "politics",
+    "outcome": "Harris seen as winner, Taylor Swift endorsed Harris, Trump refused second debate",
+    "context_notes": "First debate between candidates. Biden debate had hurt Democrats. Harris as prosecutor vs Trump as defendant. Polls still close."
+  },
+  {
+    "date": "2024-09-10",
+    "headline": "Huawei launches Mate XT trifold smartphone",
+    "category": "technology",
+    "outcome": "World's first mass-produced triple-fold phone, sold out instantly despite $2800 price",
+    "context_notes": "Huawei recovering from US sanctions. Uses HarmonyOS. No Google services. 10.2-inch unfolded display. Samsung and others still on dual-fold designs.",
+    "id": 63
+  },
+  {
+    "id": 64,
+    "date": "2024-09-12",
+    "headline": "OpenAI releases o1-preview (Strawberry)",
+    "category": "technology",
+    "outcome": "Introduces 'inference-time compute' paradigm, crushing math/coding benchmarks",
+    "context_notes": "Model 'thinks' before answering. Chain of Thought hidden from user. Moves value from pre-training to inference. Solves PhD level science problems."
+  },
+  {
+    "id": 65,
+    "date": "2024-09-15",
+    "headline": "Second Trump assassination attempt at golf course",
+    "category": "politics",
+    "outcome": "Suspect arrested with rifle near fence, Secret Service spotted him first",
+    "context_notes": "First attempt in July. Security concerns heightened. Trump continued outdoor events. Political violence rhetoric debated."
+  },
+  {
+    "id": 66,
+    "date": "2024-09-17",
+    "headline": "Pager explosions across Lebanon kill dozens",
+    "category": "geopolitics",
+    "outcome": "Attributed to Israel, Hezbollah leadership targeted, precursor to ground invasion",
+    "context_notes": "Israel-Hezbollah exchanging fire since Oct 7. Hezbollah rockets hitting northern Israel. Civilians evacuated from border. Netanyahu vowing to return residents."
+  },
+  {
+    "id": 67,
+    "date": "2024-09-18",
+    "headline": "Federal Reserve cuts rates by 50 basis points",
+    "category": "economics",
+    "outcome": "Larger than expected cut, markets rallied, soft landing narrative strengthened",
+    "context_notes": "Fed held rates at 5.25-5.5% since July 2023. Inflation falling toward 2%. Labor market cooling. Debate between 25bp vs 50bp cut."
+  },
+  {
+    "date": "2024-09-19",
+    "headline": "Shohei Ohtani creates the 50/50 club",
+    "category": "sports",
+    "outcome": "First MLB player to hit 50 homers and steal 50 bases in a season",
+    "context_notes": "Dodgers superstar had arguably best offensive season in history while recovering from elbow surgery. 6-for-6 game to break record.",
+    "id": 68
+  },
+  {
+    "id": 69,
+    "date": "2024-10-01",
+    "headline": "Israel launches ground invasion of Lebanon",
+    "category": "geopolitics",
+    "outcome": "Limited incursion targeting Hezbollah tunnels, Iran retaliated with missile barrage",
+    "context_notes": "Nasrallah killed Sept 27. Pager attacks Sept 17. Hezbollah leadership decimated. US urged restraint. Iran promised response."
+  },
+  {
+    "id": 70,
+    "date": "2024-10-02",
+    "headline": "Scientists complete first full map of fruit fly brain",
+    "category": "science",
+    "outcome": "139,255 neurons mapped, breakthrough for neuroscience research",
+    "context_notes": "C. elegans connectome completed 1986. FlyWire consortium working since 2019. EM imaging + AI reconstruction."
+  },
+  {
+    "id": 71,
+    "date": "2024-10-08",
+    "headline": "Nobel Prize in Physics awarded for neural network foundations",
+    "category": "science",
+    "outcome": "Hopfield and Hinton recognized, AI legitimized as physics contribution",
+    "context_notes": "Hopfield networks 1982. Hinton pioneered deep learning. Hinton quit Google warning about AI. AI boom since ChatGPT."
+  },
+  {
+    "id": 72,
+    "date": "2024-10-09",
+    "headline": "Nobel Prize in Chemistry awarded to AlphaFold developers",
+    "category": "science",
+    "outcome": "Hassabis, Jumper, Baker recognized for computational protein design",
+    "context_notes": "AlphaFold2 solved protein folding in 2020. AlphaFold3 released May 2024. David Baker pioneered Rosetta. Revolutionary for drug discovery."
+  },
+  {
+    "id": 73,
+    "date": "2024-10-07",
+    "headline": "Hurricane Milton rapidly intensifies to Category 5",
+    "category": "climate",
+    "outcome": "Hit Florida weeks after Helene, record rapid intensification",
+    "context_notes": "Gulf water temperatures at record highs. Helene killed 200+ in Sept. Rapid intensification becoming more common."
+  },
+  {
+    "date": "2024-10-10",
+    "headline": "Tesla unveils Cybercab at 'We, Robot' event",
+    "category": "technology",
+    "outcome": "Stock dropped 9% next day due to lack of technical details and timelines",
+    "context_notes": "Showed steering-wheel-free robotaxi and Robovan. Optimus robots served drinks (later revealed to be tele-operated). Musk promised production by 2026.",
+    "id": 74
+  },
+  {
+    "id": 75,
+    "date": "2024-10-14",
+    "headline": "NASA launches Europa Clipper mission",
+    "category": "science",
+    "outcome": "Largest spacecraft for planetary mission, searching for life signs",
+    "context_notes": "Europa has subsurface ocean. Launch window Oct 2024. SpaceX Falcon Heavy as vehicle. 49 flybys planned."
+  },
+  {
+    "id": 76,
+    "date": "2024-10-22",
+    "headline": "Anthropic introduces 'Computer Use' for Claude",
+    "category": "technology",
+    "outcome": "AI can view screen and control mouse/keyboard, moving towards agentic workflows",
+    "context_notes": "Released in beta. Microsoft and others exploring similar 'agent' concepts. Safety rails implemented to prevent misuse. High latency initially."
+  },
+  {
+    "id": 77,
+    "date": "2024-10-28",
+    "headline": "Bitcoin breaks above $70k heading into election",
+    "category": "economics",
+    "outcome": "ETF inflows accelerated, crypto became campaign issue",
+    "context_notes": "ETFs approved Jan 2024. $50B+ inflows. April halving. Trump went pro-crypto at Bitcoin conference. Previous ATH $69k in 2021."
+  },
+  {
+    "date": "2024-10-29",
+    "headline": "Flash floods in Spain kill over 200 people",
+    "category": "climate",
+    "outcome": "Deadliest floods in modern Spanish history, massive anger at government response",
+    "context_notes": "Valencia region hardest hit. 'DANA' weather phenomenon. King Felipe VI pelted with mud by protesters. Raised questions about climate adaptation.",
+    "id": 78
+  },
+  {
+    "id": 79,
+    "date": "2024-11-05",
+    "headline": "Trump wins 2024 presidential election",
+    "category": "politics",
+    "outcome": "Won popular vote and electoral college, Republicans took Senate",
+    "context_notes": "Polls showed toss-up. Harris momentum after convention. Two assassination attempts. Economy and immigration top issues. Biden dropped out July."
+  },
+  {
+    "id": 80,
+    "date": "2024-11-06",
+    "headline": "Markets rally sharply after Trump victory",
+    "category": "economics",
+    "outcome": "Bitcoin surged past $90k, Tesla jumped 40%, bond yields rose",
+    "context_notes": "Markets prefer certainty. Trump promised tax cuts and deregulation. Musk supported Trump. Deficit concerns emerged."
+  },
+  {
+    "date": "2024-11-15",
+    "headline": "HarmonyOS surpasses iOS market share in China",
+    "category": "technology",
+    "outcome": "Huawei's OS captures 19% vs Apple's 17% in Q4, third-largest mobile OS globally",
+    "context_notes": "US sanctions forced Huawei to build own OS. HarmonyOS NEXT fully replaced Android components. Chinese consumers supported domestic brand. iPhone sales declining in China.",
+    "id": 81
+  },
+  {
+    "id": 82,
+    "date": "2024-10-13",
+    "headline": "SpaceX catches Super Heavy booster with chopstick arms",
+    "category": "science",
+    "outcome": "First successful booster catch, major step toward full reusability",
+    "context_notes": "Starship development ongoing since 2019. Previous flights exploded. Mechazilla tower design unique. Musk targeting Mars."
+  },
+  {
+    "date": "2024-11-20",
+    "headline": "Gautam Adani indicted by US prosecutors",
+    "category": "business",
+    "outcome": "Charged with $250M bribery scheme, Adani Group stocks crashed",
+    "context_notes": "Allegedly bribed Indian officials for solar energy contracts while raising money from US investors. Adani denied charges. Kenya cancelled major airport deal.",
+    "id": 83
+  },
+  {
+    "date": "2024-11-24",
+    "headline": "COP29 concludes in Baku with $300B finance deal",
+    "category": "climate",
+    "outcome": "Developing nations slammed deal as insufficient, 'climate finance' goal tripled",
+    "context_notes": "Goal to help poorer nations cut emissions. Critics wanted $1T+. US delegation constrained by incoming Trump administration. Transition away from fossil fuels reaffirmed.",
+    "id": 84
+  },
+  {
+    "id": 85,
+    "date": "2024-11-19",
+    "headline": "Ukraine war approaches 1000 days, North Korean troops deployed",
+    "category": "geopolitics",
+    "outcome": "Russia made slow territorial gains, Ukraine used long-range missiles",
+    "context_notes": "Counteroffensive failed 2023. US aid delayed. North Korea supplied ammunition. Kursk incursion summer 2024."
+  },
+  {
+    "date": "2024-12-01",
+    "headline": "Biden pardons son Hunter Biden",
+    "category": "politics",
+    "outcome": "Reversed previous pledge not to pardon him, cited political prosecution",
+    "context_notes": "Covers tax offenses and gun conviction. Hunter had faced sentencing in Dec. Republicans criticized move as abuse of power.",
+    "id": 86
+  },
+  {
+    "id": 87,
+    "date": "2024-12-03",
+    "headline": "South Korean President Yoon declares martial law",
+    "category": "geopolitics",
+    "outcome": "Reversed within hours after parliament rejection, impeachment began",
+    "context_notes": "Yoon unpopular, approval ~20%. Opposition controlled parliament. Cited North Korea threat. Troops surrounded parliament."
+  },
+  {
+    "date": "2024-12-04",
+    "headline": "UnitedHealthcare CEO Brian Thompson shot and killed",
+    "category": "crime",
+    "outcome": "Targeted attack in NYC, suspect Luigi Mangione arrested after manhunt",
+    "context_notes": "Words 'deny', 'defend', 'depose' found on shell casings. Sparked national debate on insurance claim denials. Suspect found with ghost gun and manifesto.",
+    "id": 88
+  },
+  {
+    "id": 89,
+    "date": "2024-12-05",
+    "headline": "Bitcoin crosses $100,000",
+    "category": "economics",
+    "outcome": "Psychological milestone, altcoins rallied, institutional adoption accelerated",
+    "context_notes": "ETF inflows continued. Trump win seen as crypto-friendly. Previous peak $69k in 2021. Halving in April."
+  },
+  {
+    "date": "2024-12-07",
+    "headline": "Notre Dame reopens five years after fire",
+    "category": "culture",
+    "outcome": "Massive restoration completed on schedule, global ceremony held",
+    "context_notes": "2019 fire destroyed spire and roof. Restoration cost \u20ac700M. Macron fulfilled pledge to reopen within 5 years. New spire identical to Viollet-le-Duc design.",
+    "id": 90
+  },
+  {
+    "id": 91,
+    "date": "2024-12-08",
+    "headline": "Assad regime collapses, rebels take Damascus",
+    "category": "geopolitics",
+    "outcome": "Assad fled to Russia, major geopolitical realignment in Middle East",
+    "context_notes": "Syria civil war started 2011. Russia intervened 2015. HTS rebels advanced rapidly. Hezbollah weakened. Iran distracted by Israel."
+  },
+  {
+    "date": "2024-12-09",
+    "headline": "Google unveils Willow quantum chip",
+    "category": "technology",
+    "outcome": "Solved benchmark problem in 5 minutes that would take classical computers 10 septillion years",
+    "context_notes": "105 qubits with improved error correction. Demonstrated 'below threshold' error rates. IBM and others also racing. Practical quantum computing still years away.",
+    "id": 92
+  },
+  {
+    "id": 93,
+    "date": "2024-12-10",
+    "headline": "Trump announces controversial cabinet picks",
+    "category": "politics",
+    "outcome": "RFK Jr for HHS, DOGE with Musk and Ramaswamy, Hegseth for Defense",
+    "context_notes": "RFK Jr vaccine skeptic. Musk heavily involved in campaign. Gaetz nominated then withdrew. Senate confirmation fights expected."
+  },
+  {
+    "id": 94,
+    "date": "2024-12-11",
+    "headline": "Google DeepMind releases Gemini 2.0",
+    "category": "technology",
+    "outcome": "Multimodal AI with agentic capabilities, direct ChatGPT competitor",
+    "context_notes": "Original Gemini launched Dec 2023. OpenAI released GPT-4o. Anthropic launched Claude 3.5. AI capability race intensifying."
+  },
+  {
+    "id": 95,
+    "date": "2024-12-18",
+    "headline": "Fed cuts rates 25bp but signals slower 2025 pace",
+    "category": "economics",
+    "outcome": "Markets sold off on hawkish guidance, 2 cuts expected for 2025 vs 4 prior",
+    "context_notes": "September 50bp cut. Inflation sticky above 2%. Labor market resilient. Trump fiscal policy could be inflationary."
+  },
+  {
+    "id": 96,
+    "date": "2024-12-20",
+    "headline": "Congress averts government shutdown with stopgap bill",
+    "category": "politics",
+    "outcome": "Musk and Trump opposed original deal, revised bill passed",
+    "context_notes": "Funding deadline Dec 20. Johnson struggled with slim majority. DOGE influence on spending. Debt ceiling fight looming."
+  },
+  {
+    "date": "2024-12-26",
+    "headline": "Squid Game Season 2 releases on Netflix",
+    "category": "entertainment",
+    "outcome": "Projected to be biggest streaming event of the year",
+    "context_notes": "Sequel to 2021's most-watched series ever. Lee Jung-jae returns. Massive marketing campaign. Released alongside NFL Christmas games on Netflix.",
+    "id": 97
+  },
+  {
+    "id": 98,
+    "date": "2024-12-26",
+    "headline": "DeepSeek releases DeepSeek-V3",
+    "category": "technology",
+    "outcome": "Open-weights model matching top US labs at fraction of training cost ($5.6M)",
+    "context_notes": "Chinese lab. Uses Mixture-of-Experts (MoE) and Multi-Head Latent Attention (MLA). Disproves notion that export controls would completely stifle Chinese AI progress."
+  },
+  {
+    "id": 99,
+    "date": "2024-12-29",
+    "headline": "Jimmy Carter dies at age 100",
+    "category": "politics",
+    "outcome": "Former president passed peacefully, national mourning, Jan 9 funeral",
+    "context_notes": "Oldest living president. In hospice care since Feb 2023. Nobel Peace Prize winner. Post-presidency humanitarian work."
+  },
+  {
+    "id": 100,
+    "date": "2024-12-31",
+    "headline": "S&P 500 finishes 2024 up 23%",
+    "category": "economics",
+    "outcome": "Second consecutive year of 20%+ gains, AI stocks led, valuation concerns",
+    "context_notes": "Magnificent 7 drove gains. Nvidia up 170%. Fed pivot helped. Recession avoided. Concentration risk in index."
+  },
+  {
+    "id": 101,
+    "date": "2024-01-01",
+    "headline": "Magnitude 7.6 earthquake strikes Noto Peninsula, Japan",
+    "category": "science",
+    "outcome": "Tsunami warnings issued, major infrastructure damage, 200+ casualties",
+    "context_notes": "Struck on New Year's Day. Highlighted Japan's strict building codes which prevented higher casualties. Disrupted semiconductor supply chains."
+  },
+  {
+    "id": 102,
+    "date": "2024-02-14",
+    "headline": "Prabowo Subianto wins Indonesia presidential election",
+    "category": "politics",
+    "outcome": "Decisive first-round victory (~58%) in world's third-largest democracy",
+    "context_notes": "Prabowo rebranded from military hardliner to 'cuddly grandfather' figure. Allied with outgoing popular president Jokowi's son as VP. Continuity candidate."
+  },
+  {
+    "id": 103,
+    "date": "2024-03-07",
+    "headline": "Sweden officially joins NATO as 32nd member",
+    "category": "geopolitics",
+    "outcome": "Ends 200 years of military non-alignment, turns Baltic Sea into 'NATO lake'",
+    "context_notes": "Application stalled by Turkey and Hungary for months. Triggered by Russia's invasion of Ukraine. Completes Nordic integration into alliance."
+  },
+  {
+    "id": 104,
+    "date": "2024-05-05",
+    "headline": "Catastrophic floods devastate southern Brazil",
+    "category": "climate",
+    "outcome": "Porto Alegre submerged, airport closed indefinitely, $10B+ economic loss",
+    "context_notes": "State of public calamity declared. Rainfall exceeded historical records. Highlighted lack of urban climate adaptation. Disrupted global soy/grain markets."
+  },
+  {
+    "id": 105,
+    "date": "2024-05-29",
+    "headline": "ANC loses parliamentary majority in South Africa election",
+    "category": "politics",
+    "outcome": "Forced into coalition government for first time since end of Apartheid (1994)",
+    "context_notes": "Vote share dropped below 50%. Rise of MK party led by former president Zuma split the vote. Market rallied on formation of Government of National Unity."
+  },
+  {
+    "id": 106,
+    "date": "2024-10-27",
+    "headline": "Japan's ruling LDP loses majority in snap election",
+    "category": "politics",
+    "outcome": "Political instability in G7 nation, Prime Minister Ishiba leads minority government",
+    "context_notes": "Voters punished LDP for 'slush fund' scandal. Inflation hurting approval ratings. Opposition CDP made significant gains but failed to unite."
+  }
+]

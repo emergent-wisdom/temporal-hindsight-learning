@@ -1,0 +1,32 @@
+
+__pycache__/
+.DS_Store
+.venv/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.pyc
+*.swp
+*.synctex.gz
+*.toc
+*~
+# Archived files
+# Editor files
+# Experiment artifacts
+# LaTeX auxiliary files
+# OS files
+# Python
+checkpoints/
+experiment/.env
+experiment/model_output/
+experiment/old/
+might need/
+venv/
+*.pdf
+*.progress.json

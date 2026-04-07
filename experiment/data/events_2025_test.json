@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "headline": "German Federal Election",
+    "date": "2025-02-23",
+    "outcome": "Chancellor Scholz fired Finance Minister Christian Lindner (FDP) on November 6, 2024, collapsing the coalition. Scholz deliberately lost a confidence vote on December 16, 2024, triggering a snap election on February 23, 2025. CDU/CSU won with 28.5% (208 seats). The AfD surged to 20.8% (151 seats) \u2014 their best-ever federal result, doubling their 2021 share. SPD collapsed to 16.4% \u2014 their worst-ever federal result. Voter turnout was ~82.5%, the highest since reunification. Friedrich Merz was sworn in as Chancellor on May 6, 2025, leading a CDU/CSU-SPD grand coalition, after an unprecedented failed first ballot in parliament (310 of required 316 votes).",
+    "category": "Politics/Elections",
+    "context_notes": ""
+  },
+  {
+    "id": 2,
+    "headline": "PKK Ceasefire and Dissolution Call",
+    "date": "2025-02-27",
+    "outcome": "On February 27, 2025, jailed PKK founder Abdullah Ocalan made a landmark statement calling on the PKK to convene a congress, lay down its arms, and formally dissolve itself. This was the first time Ocalan called for the PKK's outright dissolution (not just a ceasefire). The statement was delivered through Kurdish DEM Party politicians who visited him in Imrali Prison. On March 1, 2025, the PKK executive committee declared a ceasefire, stating it was heeding Ocalan's call. The PKK later formally dissolved in May 2025, ending a 40-year conflict.",
+    "category": "Geopolitics/Conflict Resolution",
+    "context_notes": ""
+  },
+  {
+    "id": 3,
+    "headline": "Trump-Zelenskyy White House Confrontation",
+    "date": "2025-02-28",
+    "outcome": "On February 28, 2025, Zelenskyy visited the White House to sign a minerals deal giving the US access to Ukrainian rare earth resources. The meeting devolved into a televised shouting match. Trump told Zelenskyy 'You're either going to make a deal or we're out' and 'You're gambling with World War III.' VP Vance demanded to know if Zelenskyy had said 'thank you' once. The planned signing ceremony was cancelled, and Zelenskyy was asked to leave. The US subsequently suspended military aid and intelligence sharing for approximately 10-12 days, resuming around March 11-12 after Zelenskyy agreed to a 30-day ceasefire proposal (which Russia rejected).",
+    "category": "Geopolitics/Diplomacy",
+    "context_notes": ""
+  },
+  {
+    "id": 4,
+    "headline": "Firefly Blue Ghost Lunar Landing",
+    "date": "2025-03-02",
+    "outcome": "Firefly Aerospace's Blue Ghost Mission 1 successfully soft-landed on the Moon on March 2, 2025, at 08:34 UTC in Mare Crisium, becoming the first commercial company to achieve a fully successful upright soft landing on the Moon. It landed within 100 meters of its target next to Mons Latreille. It carried 10 NASA CLPS payloads, all activated successfully, transmitting over 110 GB of data. The lander completed 346 hours (14+ days) of surface operations before losing power about 5 hours into lunar night on March 16. It was the first successful US lunar landing since Apollo 17 in December 1972.",
+    "category": "Space/Technology",
+    "context_notes": ""
+  },
+  {
+    "id": 5,
+    "headline": "Google Acquires Wiz",
+    "date": "2025-03-18",
+    "outcome": "On March 18, 2025, Google signed a definitive agreement to acquire Wiz for $32 billion in all-cash - Google's largest acquisition ever. Wiz had grown to $500M revenue in 2024, projected to hit $1B in 2025. DOJ cleared the deal in November 2025. Wiz will join Google Cloud while maintaining support for AWS, Azure, and Oracle.",
+    "category": "Tech/M&A",
+    "context_notes": ""
+  },
+  {
+    "id": 6,
+    "headline": "Gemini 2.5 Pro Release",
+    "date": "2025-03-25",
+    "outcome": "Google DeepMind released Gemini 2.5 Pro Experimental on March 25, 2025 \u2014 their first 'thinking model' with native reasoning capabilities. It topped the LMArena leaderboard by ~40 points and led on math/science benchmarks (AIME 2024: 92.0%, AIME 2025: 86.7%, GPQA Diamond: 84.0%). It featured a 1M token context window. SWE-bench Verified: 63.8% (behind Claude 3.7 Sonnet's 70.3%). Positioned as Google's answer to OpenAI o1/o3, it was made available in Google AI Studio and for Gemini Advanced users.",
+    "category": "AI/Technology",
+    "context_notes": ""
+  },
+  {
+    "id": 7,
+    "headline": "Myanmar 7.7 Earthquake",
+    "date": "2025-03-28",
+    "outcome": "On March 28, 2025, at 12:50 pm local time (06:20 UTC), a magnitude 7.7 earthquake struck the Sagaing Region near Mandalay at a shallow depth of 10 km. The epicenter was approximately 14 km NNW of Sagaing city and 16 km west of Mandalay. A M6.7 aftershock followed 12 minutes later. The rupture propagated over 460 km via supershear mechanics. Over 3,600-5,350 people were killed (varying by source due to junta censorship), 5,000+ injured, 10,000+ structures destroyed. In Bangkok (~1,000 km away), a 33-story building under construction collapsed, killing at least 22-29 people. The Ava Bridge across the Irrawaddy collapsed. China pledged $137M, UK $13M, US $2M in aid. Rescue teams from China, India, Russia, Thailand, Turkey, and others deployed.",
+    "category": "Climate/Disaster",
+    "context_notes": ""
+  },
+  {
+    "id": 8,
+    "headline": "Trump Liberation Day Tariffs",
+    "date": "2025-04-02",
+    "outcome": "On April 2, 2025 (\"Liberation Day\"), Trump signed Executive Order 14257, declaring a national emergency over trade deficits and invoking IEEPA to impose sweeping tariffs. 10% baseline tariff on nearly all imports (effective April 5), with higher reciprocal rates for specific countries (effective April 9). China faced 54% combined (20% fentanyl + 34% reciprocal), later escalating to 145%. The S&P 500 fell ~10.5% over two days (April 3: -4.84%, April 4: -5.97%), erasing $6.6 trillion in market value \u2014 the fifth-worst two-day decline since 1950. On April 9, Trump paused reciprocal tariffs above 10% for 90 days (except China); the S&P 500 surged 9.52%, its best day since October 2008.",
+    "category": "Economic/Policy",
+    "context_notes": ""
+  },
+  {
+    "id": 9,
+    "headline": "Meta Llama 4 Release",
+    "date": "2025-04-05",
+    "outcome": "Meta released Llama 4 on April 5, 2025, introducing two models: Scout and Maverick. Both use a mixture-of-experts (MoE) architecture \u2014 Meta's first \u2014 and are natively multimodal (text + image). Scout has 109B total / 17B active parameters with 16 experts and a 10M-token context window, fitting on a single H100 GPU. Maverick has 400B total / 17B active parameters with 128 experts. A third model, Behemoth (2T total / 288B active, 16 experts), was announced but remained in training and was never publicly released. Scout and Maverick are open-weight, available on llama.com and Hugging Face. Scout outperforms Gemma 3 and Gemini 2.0 Flash-Lite. Maverick outperforms GPT-4o and Gemini 2.0 Flash but falls short of Claude 3.7 Sonnet and Gemini 2.5 Pro.",
+    "category": "AI/Technology",
+    "context_notes": ""
+  },
+  {
+    "id": 10,
+    "headline": "Nvidia Stock Crash (Liberation Day Tariffs)",
+    "date": "2025-04-07",
+    "outcome": "Nvidia closed at $101.78 on April 3 and fell to $94.29 on April 4, 2025, a 37% decline from its January 6 high of $149.43. On April 7, the stock hit an intraday 52-week low of $86.62 (closing at $97.62). The crash was driven by Liberation Day tariffs (32% on Taiwan, 34% on China, 25% on Mexico/Canada) plus a subsequent H20 chip China export ban costing $2.5B in Q1 revenue. Recovery began after Trump paused tariffs on April 9, and after US-China tariff reductions on May 12. Stock rallied 24% in May and eventually hit an all-time high of $212.19 on October 29, 2025.",
+    "category": "Economic/Markets",
+    "context_notes": ""
+  },
+  {
+    "id": 11,
+    "headline": "Pope Francis Death",
+    "date": "2025-04-21",
+    "outcome": "Pope Francis died on Easter Monday, April 21, 2025, at age 88, at his residence in the Vatican's Casa Santa Marta. The official cause of death was cerebral stroke, followed by coma and irreversible cardiovascular collapse. He had served as pope for 12 years since March 2013. His funeral Mass was held on April 26. The conclave began on May 7 and on the fourth ballot elected Cardinal Robert Francis Prevost, who took the name Leo XIV \u2014 the first American-born pope.",
+    "category": "Political/Social",
+    "context_notes": ""
+  },
+  {
+    "id": 12,
+    "headline": "Pahalgam Attack and India-Pakistan Conflict",
+    "date": "2025-04-22",
+    "outcome": "On April 22, 2025, 2-7 armed terrorists attacked tourists at Baisaran Valley near Pahalgam, killing 26 civilians (mostly Hindu tourists, plus one Christian and one Muslim). The Resistance Front (TRF), a Lashkar-e-Taiba proxy, claimed responsibility. It was the deadliest attack on civilians in India since the 2008 Mumbai attacks. India suspended the Indus Waters Treaty on April 24. On May 7, India launched Operation Sindoor \u2014 missile and air strikes on 9 targets (JeM and LeT sites) in Pakistan-administered Kashmir and Punjab. Pakistan retaliated with Operation Bunyan-un-Marsoos, striking Indian air bases. Over 114 aircraft engaged in the largest India-Pakistan aerial battle. Pakistan convened its National Command Authority (nuclear weapons body), raising nuclear concerns. US Secretary of State Rubio mediated. Ceasefire announced May 10 at 17:00 IST.",
+    "category": "Geopolitical/Conflict",
+    "context_notes": ""
+  },
+  {
+    "id": 13,
+    "headline": "Ukraine-US Mineral Resources Agreement",
+    "date": "2025-04-30",
+    "outcome": "On April 30, 2025, US Treasury Secretary Scott Bessent and Ukrainian First Deputy PM Yulia Svyrydenko signed the 'United States-Ukraine Reconstruction Investment Fund' agreement. Ukraine contributes 50% of revenues from new mineral, oil, and gas projects (existing operations like Naftogaz exempt). Ukraine retains full ownership of subsoil, infrastructure, and natural resources. The US gets right to negotiate offtake agreements on commercial terms and counts prior military aid as capital contribution. Critically, the final deal dropped the original demand for Ukraine to repay $500B in military aid and includes no debt obligations for Ukraine. Covers 55 critical resources including titanium, lithium, rare earths, uranium.",
+    "category": "Geopolitical/Economic",
+    "context_notes": ""
+  },
+  {
+    "id": 14,
+    "headline": "Claude 4 Launch (Opus 4 and Sonnet 4)",
+    "date": "2025-05-22",
+    "outcome": "On May 22, 2025, Anthropic launched Claude 4 at a 'Code with Claude' event, introducing Claude Opus 4 and Claude Sonnet 4. Opus 4 was positioned as 'the world's best coding model' for sustained agentic tasks. Both were hybrid models supporting near-instant responses and extended thinking with tool use. Opus 4: 72.5% SWE-bench, 43.2% Terminal-bench, 200K context, $15/$75 per MTok. Sonnet 4: 72.7% SWE-bench, 35.5% Terminal-bench, 200K context (later 1M), $3/$15 per MTok. Claude Code reached general availability alongside the launch.",
+    "category": "AI/Technology",
+    "context_notes": ""
+  },
+  {
+    "id": 15,
+    "headline": "Court Challenges to Liberation Day Tariffs",
+    "date": "2025-05-28",
+    "outcome": "On May 28, 2025, the US Court of International Trade ruled that Trump had overstepped his authority in using IEEPA for tariffs, ordering them vacated. However, the Court of Appeals for the Federal Circuit issued a stay while considering the appeal, allowing tariffs to remain in effect pending further review.",
+    "category": "Legal/Policy",
+    "context_notes": ""
+  }
+]

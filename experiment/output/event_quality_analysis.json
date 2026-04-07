@@ -1,0 +1,167 @@
+[
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly identifying the specific mechanism (Lindner firing \u2192 confidence vote \u2192 snap election), predicting the AfD surge to ~20%+ and SPD collapse to historic lows, anticipating the grand coalition outcome, and assigning high probability (>70%) to coalition collapse before September 2025. Especially impressive would be predicting the unprecedented failed first chancellor ballot or the record-high turnout.",
+    "what_would_not_be_impressive": "Predicting that the coalition is in serious trouble or that CDU/CSU would win the next election. The clues practically scream coalition collapse and CDU/CSU victory \u2014 these are not analytically demanding conclusions.",
+    "overall_quality": "fair",
+    "one_line_summary": "The clues make coalition collapse and CDU/CSU victory near-obvious, leaving only the specific mechanism, timing, and magnitude of party results as genuinely challenging forecasting targets.",
+    "event_id": 1,
+    "event_name": "German Federal Election"
+  },
+  {
+    "predictability_class": "structural",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "low",
+    "what_would_be_impressive": "Predicting the specific timing (February 2025) and that Ocalan would call for full dissolution rather than just a ceasefire, given he had never done so before. Also predicting that the PKK would actually comply and formally dissolve by May 2025.",
+    "what_would_not_be_impressive": "Recognizing that Ocalan would issue some kind of statement through DEM Party visitors, since the prompt explicitly tells you political delegation visits were granted in early 2025 and that Bahceli called for Ocalan to tell the PKK to disband. The clues essentially narrate the buildup to the event step by step.",
+    "overall_quality": "poor",
+    "one_line_summary": "The prompt provides such a detailed chronological buildup \u2014 Bahceli's offer, resumed visits, DEM delegation access \u2014 that the outcome (Ocalan issues a dissolution call) is essentially telegraphed, making this a reading comprehension exercise rather than a forecasting test.",
+    "event_id": 2,
+    "event_name": "PKK Ceasefire and Dissolution Call"
+  },
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "genuinely_uncertain",
+    "analytical_work": "high",
+    "what_would_be_impressive": "Predicting that the meeting would not just be tense but would actually *collapse* \u2014 that the signing ceremony would be cancelled, Zelenskyy asked to leave, and military aid suspended as leverage. The clues suggest transactional dynamics and tension, but predicting a televised shouting match and complete breakdown (rather than a grudging deal or cold-but-functional signing) requires understanding Trump's interpersonal negotiation style as performative dominance, his tendency to escalate rather than compromise when he perceives insufficient deference, and the asymmetric power dynamic making confrontation cost-free for Trump domestically.",
+    "what_would_not_be_impressive": "Noting that the meeting would be 'tense' or 'transactional' \u2014 the clues practically spell this out. Also not impressive: identifying that Trump could use aid as leverage, since Clue 2 already demonstrates this mechanism.",
+    "overall_quality": "good",
+    "one_line_summary": "The clues establish structural conditions for a transactional and tense encounter, but predicting the spectacular public breakdown (cancelled ceremony, expulsion, aid suspension) over a merely uncomfortable-but-functional deal requires genuine analytical synthesis about Trump's negotiating psychology and the asymmetric power dynamics.",
+    "event_id": 3,
+    "event_name": "Trump-Zelenskyy White House Confrontation"
+  },
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "genuinely_uncertain",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly calibrating the probability higher than the ~50% base rate that the recent CLPS track record (0 fully successful out of 2) would suggest, by recognizing that Firefly's more heritage-based propulsion approach, extensive testing, and simpler architecture meaningfully improved odds relative to Astrobotic and Intuitive Machines' attempts. Getting the probability into the 55-70% range would show genuine analytical discrimination.",
+    "what_would_not_be_impressive": "Simply noting that lunar landings are hard and prior CLPS missions had problems, then giving a ~50% estimate. That's just pattern-matching to recent history without deeper analysis.",
+    "overall_quality": "good",
+    "one_line_summary": "A genuinely uncertain commercial lunar landing with competing signals \u2014 poor CLPS track record vs. Firefly's apparently more robust engineering approach \u2014 requiring real analytical work to calibrate.",
+    "event_id": 4,
+    "event_name": "Firefly Blue Ghost Lunar Landing"
+  },
+  {
+    "predictability_class": "structural",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Predicting that Google would return with a higher bid after being rejected, correctly identifying that the Trump administration's more permissive antitrust stance would remove the key regulatory barrier, and estimating a price in the $30B+ range reflecting Wiz's continued growth trajectory and supply-side scarcity.",
+    "what_would_not_be_impressive": "Recognizing that Google is interested in acquiring Wiz \u2014 the prompt literally states Google already made a $23B offer. Identifying that security is important for cloud competition is directly stated.",
+    "overall_quality": "fair",
+    "one_line_summary": "The clues heavily telegraph a Google-Wiz acquisition: prior bid, regulatory shift, strategic fit, and supply scarcity all point one direction, leaving mainly the timing and price as genuinely uncertain elements.",
+    "event_id": 5,
+    "event_name": "Google Acquires Wiz"
+  },
+  {
+    "predictability_class": "structural",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly estimating the specific performance characteristics (e.g., AIME 2024 ~92%, GPQA ~84%, SWE-bench lagging behind Claude) and the precise timing within Q1 2025. Also, recognizing that Google would lead on math/science benchmarks but trail on coding/agentic tasks would show nuanced understanding of different companies' strengths.",
+    "what_would_not_be_impressive": "Simply predicting that Google would release a thinking model by Q1 2025 \u2014 the clues practically spell this out. The Flash Thinking experiment in December 2024 is an obvious precursor, the competitive pressure from o1/o3 is enormous, and the question essentially names the product (Gemini 2.5 Pro). A high probability estimate here is just reading comprehension.",
+    "overall_quality": "fair",
+    "one_line_summary": "The clues strongly telegraph Google's imminent release of a thinking model, making the binary yes/no question too easy, though predicting specific performance characteristics requires genuine analytical work.",
+    "event_id": 6,
+    "event_name": "Gemini 2.5 Pro Release"
+  },
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "low",
+    "what_would_be_impressive": "Giving a meaningfully elevated probability (say >15-20% for 1-3 year window) rather than the base rate (~5-8%), and specifically predicting supershear rupture causing distant damage in Bangkok including construction-site collapses. Quantifying death tolls in the thousands given governance collapse would also show good calibration.",
+    "what_would_not_be_impressive": "Describing the general scenario of earthquake damage in Myanmar and Bangkok basin amplification - the prompt essentially lays out the entire causal chain in detail. The clues explicitly mention the seismic gap, supershear mechanics on the Sagaing Fault, Bangkok's basin amplification, incomplete buildings lacking lateral systems, and Myanmar's degraded infrastructure. A model just needs to say 'yes, this is all plausible' to get the scenario right.",
+    "overall_quality": "poor",
+    "one_line_summary": "The prompt pre-constructs the entire causal narrative of the earthquake so thoroughly that the model merely needs to confirm the scenario rather than forecast it, making this a test of reading comprehension rather than forecasting ability.",
+    "event_id": 7,
+    "event_name": "Myanmar 7.7 Earthquake"
+  },
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly predicting that Trump would actually follow through with aggressive tariffs (not a bluff), predicting the specific IEEPA/national emergency mechanism for broad trade tariffs, predicting the severity of market reaction (10%+ decline), and especially predicting the subsequent partial reversal/pause within days \u2014 the pattern of escalation-then-partial-retreat that characterized the actual event.",
+    "what_would_not_be_impressive": "Identifying IEEPA as the legal mechanism (explicitly stated in the clues), recognizing that markets would react negatively to tariffs (obvious), or noting that the reciprocal tariff formula is crude (stated directly in the prompt).",
+    "overall_quality": "fair",
+    "one_line_summary": "The prompt heavily telegraphs the IEEPA mechanism and aggressive tariff trajectory, leaving the main genuine forecasting challenge as whether Trump would follow through versus bluff \u2014 but the clues strongly favor follow-through, reducing the analytical difficulty.",
+    "event_id": 8,
+    "event_name": "Trump Liberation Day Tariffs"
+  },
+  {
+    "predictability_class": "structural",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly predicting the specific MoE configuration (multiple model sizes with different expert counts, the 17B active parameter choice, the extremely large 10M context window for Scout), the Q1/early-Q2 2025 release timing, and the specific competitive positioning (beating GPT-4o but falling short of Claude 3.7 Sonnet and Gemini 2.5 Pro). Predicting the announcement-but-not-release of Behemoth would also be impressive.",
+    "what_would_not_be_impressive": "Predicting MoE adoption and native multimodality \u2014 the clues practically spell these out. The prompt explicitly notes competitors shipping MoE, Meta lagging on both multimodality and efficient inference, and leaked details suggesting MoE exploration.",
+    "overall_quality": "fair",
+    "one_line_summary": "The two core architectural questions (MoE and multimodality) are heavily telegraphed by the clues, leaving only specifics of scale, timing, and competitive positioning as genuine forecasting challenges.",
+    "event_id": 9,
+    "event_name": "Meta Llama 4 Release"
+  },
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly estimating a high probability (e.g., 50-70%+) despite the general tendency of forecasters to underweight tail risks, and specifically identifying the combination of tariffs AND export control escalation as a dual trigger rather than just one or the other. Also, distinguishing between a >30% drawdown (which happened) versus a more moderate correction would require calibrated thinking about the magnitude of policy shock.",
+    "what_would_not_be_impressive": "Recognizing that Nvidia has tariff-related downside risk \u2014 the clues are practically a roadmap spelling out every vulnerability that was later exploited. The prompt is essentially asking 'given that Trump promised tariffs on Taiwan/China/Mexico, won the election, and Nvidia depends on all those supply chains, will tariffs hurt Nvidia?' This is heavily guided.",
+    "overall_quality": "fair",
+    "one_line_summary": "The prompt provides an exhaustive, near-complete causal chain from Trump's tariff promises through Nvidia's specific vulnerabilities to the crash, making this more of a reading comprehension test than a genuine forecasting challenge \u2014 though calibrating the probability of a >30% drawdown still requires some analytical judgment.",
+    "event_id": 10,
+    "event_name": "Nvidia Stock Crash (Liberation Day Tariffs)"
+  },
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly forecasting that Pope Francis would die in 2025, specifically around the Easter peak period when liturgical demands were highest, and identifying stroke/cardiovascular collapse as the likely acute event given his risk profile. Also impressive would be predicting the timeline of the conclave and the selection of an unexpected candidate like an American-born pope.",
+    "what_would_not_be_impressive": "Recognizing that an 87-88 year old with one lung, wheelchair dependence, recurrent hospitalizations, and chronic immobility is at elevated mortality risk. The prompt essentially walks the model through the medical risk analysis step by step.",
+    "overall_quality": "fair",
+    "one_line_summary": "The prompt heavily telegraphs the pope's death by walking through his deteriorating health in detail and asking about 'cumulative organ system failure risk' and 'acute events,' making this more of a guided reasoning exercise than a genuine forecasting test.",
+    "event_id": 11,
+    "event_name": "Pope Francis Death"
+  },
+  {
+    "predictability_class": "mixed",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly predicting the specific escalation sequence \u2014 that India would first suspend the Indus Waters Treaty as an intermediate step, then conduct multi-target strikes on terrorist infrastructure, that Pakistan would retaliate militarily (unlike after Balakot where retaliation was limited), that a large-scale aerial engagement would occur, that the nuclear threshold would be approached but not crossed, and that a US-mediated ceasefire would emerge within ~2 weeks. Getting the tempo, sequence, and ceiling of escalation right simultaneously would be genuinely impressive.",
+    "what_would_not_be_impressive": "Predicting that India would conduct military strikes in response to a mass-casualty attack \u2014 the prompt explicitly establishes the Balakot precedent and 'punitive response' doctrine. Predicting US mediation involvement given Rubio is mentioned. Predicting nuclear concerns given Pakistan's NCA and full-spectrum deterrence are described.",
+    "overall_quality": "fair",
+    "one_line_summary": "The question is conditional ('if X happens, what follows?') and the clues heavily telegraph the escalation pathway, making this more a test of calibrating escalation levels than genuine forecasting of an uncertain event.",
+    "event_id": 12,
+    "event_name": "Pahalgam Attack and India-Pakistan Conflict"
+  },
+  {
+    "predictability_class": "structural",
+    "direction_from_clues": "genuinely_uncertain",
+    "analytical_work": "high",
+    "what_would_be_impressive": "Correctly predicting that the final deal would DROP the $500B retroactive debt demand while still counting prior aid as a 'capital contribution' (a face-saving compromise), that Ukraine would retain full sovereignty over subsoil resources, and that the mechanism would be a revenue-sharing investment fund rather than direct debt or ownership transfer. The key analytical challenge is recognizing that the initial maximalist US demands (retroactive repayment) would be walked back due to Ukraine's negotiating leverage (they can simply refuse and the deal collapses, which serves no one), while the US would get a symbolic win through the 'capital contribution' framing. Predicting the 50% revenue share from NEW projects only (not existing operations) also requires understanding the bargaining dynamics.",
+    "what_would_not_be_impressive": "Recognizing that a minerals deal is coming (the clues make this obvious), that it would involve critical minerals like titanium/lithium/rare earths (explicitly stated), that Svyrydenko and Bessent would be key negotiators (named in clues), or that there would be some form of revenue-sharing mechanism (strongly implied by the negotiation track).",
+    "overall_quality": "good",
+    "one_line_summary": "A high-quality forecasting target where clues clearly signal a deal is coming but the crucial structural details\u2014especially whether the US maximalist debt demands survive negotiation\u2014require genuine analytical reasoning about bargaining dynamics and political constraints.",
+    "event_id": 13,
+    "event_name": "Ukraine-US Mineral Resources Agreement"
+  },
+  {
+    "predictability_class": "structural",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Predicting specific details like: Sonnet 4 matching/exceeding Opus 4 on SWE-bench, the hybrid instant+extended thinking architecture, specific benchmark ranges (70%+ SWE-bench), pricing tiers, the 'Code with Claude' event framing, and the May 2025 timing. Also impressive: predicting that Claude Code would reach GA alongside the model launch rather than being a separate release.",
+    "what_would_not_be_impressive": "Predicting that Claude 4 would have Opus and Sonnet tiers, that coding would be the primary positioning, that extended thinking would be included, that it would be competitive on coding benchmarks, or that tool use/agentic capabilities would be featured. These all follow directly from the clues.",
+    "overall_quality": "fair",
+    "one_line_summary": "The clues are so detailed and directional that they essentially outline the answer \u2014 coding focus, extended thinking, agentic capabilities, Opus+Sonnet tiers \u2014 leaving only specific numbers and timing as genuinely uncertain, making this more a reading comprehension test than a forecasting challenge.",
+    "event_id": 14,
+    "event_name": "Claude 4 Launch (Opus 4 and Sonnet 4)"
+  },
+  {
+    "predictability_class": "structural",
+    "direction_from_clues": "one-directional",
+    "analytical_work": "medium",
+    "what_would_be_impressive": "Correctly predicting the specific two-step outcome: (1) CIT strikes down the tariffs as exceeding IEEPA authority, BUT (2) an appellate stay keeps them in effect pending appeal, meaning they are NOT actually removed immediately. Predicting both parts together \u2014 the legal victory for challengers AND the practical nullification through appellate process \u2014 demonstrates sophisticated understanding of how federal litigation actually plays out versus how it looks on paper.",
+    "what_would_not_be_impressive": "Predicting that courts would be skeptical of IEEPA tariffs \u2014 the clues about major questions doctrine, IEEPA's statutory text not covering tariffs, and prepared litigation strategies practically hand-feed this conclusion. Similarly, noting that the CIT would be the venue is explicitly stated in the clues.",
+    "overall_quality": "fair",
+    "one_line_summary": "The clues heavily telegraph that courts would strike down IEEPA tariffs, making part (a) easy; the genuine forecasting challenge lies in predicting the appellate stay that prevented immediate removal, which requires procedural knowledge not supplied by the clues.",
+    "event_id": 15,
+    "event_name": "Court Challenges to Liberation Day Tariffs"
+  }
+]

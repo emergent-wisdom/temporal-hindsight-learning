@@ -1,0 +1,10 @@
+{
+  "model": "gemini-3-flash-preview",
+  "judge": "claude-opus-4-6 (Anchored Ordinal Rubric)",
+  "timestamp": "2026-03-19T10:25:25.921832",
+  "total": 75,
+  "leakage_free": 75,
+  "refusals": 0,
+  "avg_reasoning": 4.36,
+  "avg_accuracy": 5.01
+}
