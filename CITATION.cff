@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: >-
+  If you use Temporal Hindsight Learning in your research, please cite
+  the preprint below.
+title: "Temporal Hindsight Learning: Blindness as Teacher, Hindsight as Curriculum"
+abstract: >-
+  A framework that converts raw historical logs into high-quality
+  reasoning supervision. A Teacher model with hindsight generates
+  ideal prediction traces, which are distilled into a Student model
+  constrained to past data. The core insight: hindsight generates
+  perfect logic puzzles — the Teacher knows the answer and can
+  identify which reasoning chains were valid.
+authors:
+  - family-names: Westerberg
+    given-names: Henrik
+type: software
+url: "https://github.com/emergent-wisdom/temporal-hindsight-learning"
+repository-code: "https://github.com/emergent-wisdom/temporal-hindsight-learning"
+license: MIT
+keywords:
+  - reasoning
+  - distillation
+  - hindsight-learning
+  - calibration
+  - post-training
+preferred-citation:
+  type: article
+  title: "Temporal Hindsight Learning: Blindness as Teacher, Hindsight as Curriculum"
+  authors:
+    - family-names: Westerberg
+      given-names: Henrik
+  year: 2026
+  month: 4
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.19462833
+  url: "https://doi.org/10.5281/zenodo.19462833"

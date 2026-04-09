@@ -3,6 +3,7 @@
 **Blindness as Teacher, Hindsight as Curriculum**
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](temporal-hindsight-learning.pdf)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19462833.svg)](https://doi.org/10.5281/zenodo.19462833)
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Model](https://img.shields.io/badge/Model-HuggingFace-yellow)](https://huggingface.co/emergent-wisdom/thl-llama-3.3-70b-lora)
 
@@ -103,13 +104,19 @@ The training data (`train_sft.jsonl`) and all model outputs (`predictions_*.json
 ## Citation
 
 ```bibtex
-@article{westerberg2026temporal,
-  title={Temporal Hindsight Learning: Training Calibrated Reasoners with Future Oracles},
-  author={Westerberg, Henrik},
-  journal={arXiv preprint},
-  year={2026}
+@misc{westerberg2026temporal,
+  title        = {Temporal Hindsight Learning: Blindness as Teacher, Hindsight as Curriculum},
+  author       = {Westerberg, Henrik},
+  year         = {2026},
+  month        = apr,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19462833},
+  url          = {https://doi.org/10.5281/zenodo.19462833}
 }
 ```
+
+See [`CITATION.cff`](CITATION.cff) for the machine-readable version (GitHub
+renders a "Cite this repository" button from it).
 
 ## License
 
